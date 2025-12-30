@@ -10,11 +10,13 @@ This repository is published publicly **in the interest of transparency** and re
 
 ## Contents
 
-- **25governors/**  
-  Forecast-related CSV outputs for 2025 gubernatorial elections
+- **[`25governors`](./25governors)**  
+  Forecast-related CSV outputs for 2025 gubernatorial elections.  
+  **This directory is no longer maintained.** The election cycle has concluded, and forecasts were not run through election day. Files are preserved solely for archival and transparency purposes.
 
-- **26midterms/**  
-  Forecast-related CSV outputs for 2026 U.S. midterm election forecasts
+- **[`26midterms`](./26midterms)**  
+  Forecast-related CSV outputs for 2026 U.S. midterm election forecasts.  
+  This directory may continue to receive updates as forecasts evolve.
 
 Files may differ in schema, naming conventions, and level of preprocessing depending on the modeling context in which they were produced.
 
@@ -26,6 +28,7 @@ Files may differ in schema, naming conventions, and level of preprocessing depen
 - Column definitions and formats are not fully standardized  
 - Some files reflect intermediate or snapshot outputs  
 - Assumes familiarity with election data and forecasting workflows  
+- No guarantees of completeness, consistency, or long-term stability  
 
 Users should inspect files directly before downstream use.
 
@@ -43,4 +46,6 @@ This repository exists to:
 
 ## License
 
-See the repository license for usage terms.
+This repository is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+
+The data is published as open data and may be used, shared, and adapted for research, educational, or informational purposes, provided appropriate attribution is given to **MapWiseResearch / MapWisePolitics**.
