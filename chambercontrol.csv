@@ -1,0 +1,8 @@
+Election,Dem. %,Rep. %,Dem. Seats,Rep. Seats,Winner,Actual Winner,Actual Dem. Seats,Actual Rep. Seats,Seat Miss,Missed Seat %,Missed Calls,Total Races,Accuracy
+24Pres,50.8%,49.1%,24,29,Dem,Rep,21,32,-3,5.7%,3,53,5.66%
+24Sen,35.8%,56.9%,20,14,Rep,Rep,17,17,-3,8.8%,2,34,5.88%
+24House,54.9%,45.1%,228,207,Dem,Rep,215,220,-13,3.0%,15,435,3.45%
+22Sen,50.9%,49.1%,15,20,Dem,Dem,15,20,0,0.0%,1,35,2.86%
+22House,40.2%,59.8%,209,226,Rep,Rep,213,222,4,0.9%,18,435,4.14%
+22Gov,,,16,20,,,18,18,2,5.6%,2,36,5.56%
+Total,,,512,516,,,,,25,2.4%,41,1028,3.99%
