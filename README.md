@@ -10,13 +10,21 @@ This repository is published publicly **in the interest of transparency** and re
 
 ## Contents
 
+- **[`22and24`](./22and24)**  
+  Forecast-related CSV outputs for the **2022 and 2024 federal election cycles**.  
+  These files were produced **before MapWisePolitics existed in its current form**, during earlier iterations of the project. They are preserved for historical reference, validation, and transparency.
+
 - **[`25governors`](./25governors)**  
-  Forecast-related CSV outputs for 2025 gubernatorial elections.  
+  Forecast-related CSV outputs for **2025 gubernatorial elections**.  
   **This directory is no longer maintained.** The election cycle has concluded, and forecasts were not run through election day. Files are preserved solely for archival and transparency purposes.
 
 - **[`26midterms`](./26midterms)**  
-  Forecast-related CSV outputs for 2026 U.S. midterm election forecasts.  
+  Forecast-related CSV outputs for **2026 U.S. midterm election forecasts**.  
   This directory may continue to receive updates as forecasts evolve.
+
+- **[`chambercontrol.csv`](chambercontrol.csv)**  
+  Summary CSV tracking **overall forecast performance** from **2022 onward**.  
+  This file compares **predicted vs actual outcomes** for major federal races and serves as the project’s long-term accuracy record.
 
 Files may differ in schema, naming conventions, and level of preprocessing depending on the modeling context in which they were produced.
 
