@@ -1,4 +1,4 @@
-# forecast_data
+# forecast_archives
 
 CSV outputs generated during MapWiseResearch forecasting workflows.
 
