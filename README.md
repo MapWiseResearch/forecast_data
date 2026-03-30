@@ -18,10 +18,6 @@ This repository is published publicly **in the interest of transparency** and re
   Forecast-related CSV outputs for **2025 gubernatorial elections**.  
   **This directory is no longer maintained.** The election cycle has concluded, and forecasts were not run through election day. Files are preserved solely for archival and transparency purposes.
 
-- **[`26midterms`](./26midterms)**  
-  Forecast-related CSV outputs for **2026 U.S. midterm election forecasts**.  
-  This directory may continue to receive updates as forecasts evolve.
-
 - **[`chambercontrol.csv`](chambercontrol.csv)**  
   Summary CSV tracking **overall forecast performance** from **2022 onward**.  
   This file compares **predicted vs actual outcomes** for major federal races and serves as the project’s long-term accuracy record.
